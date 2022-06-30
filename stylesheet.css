@@ -1,0 +1,25 @@
+﻿body {
+    font-family: sans-serif;
+    background-color: steelblue;
+    overflow: auto;
+}
+
+
+
+
+
+
+a .homelink {
+    display: block;
+}
+
+a .homelink:visited, link {
+}
+
+a .homelink:hover {
+}
+
+a .homelink:active {
+}
+
+@media
