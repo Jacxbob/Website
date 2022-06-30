@@ -17,7 +17,7 @@ h1 {
 
 
 
-a .homelink {
+a .link {
     display: block;
     border-width: 50px;
     border-radius: 5px;
@@ -26,15 +26,15 @@ a .homelink {
 
 }
 
-a .homelink:visited, link {
+a .link:visited, link {
 
 }
 
-a .homelink:hover {
+a .link:hover {
 
 }
 
-a .homelink:active {
+a .link:active {
 
 }
 
