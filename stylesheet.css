@@ -19,9 +19,11 @@ h1 {
 
 a .homelink {
     display: block;
-    width: 100px;
+    border-width: 50px;
     border-radius: 5px;
-    background-color: steelblue;
+    background: steelblue;
+    text-align: center;
+
 }
 
 a .homelink:visited, link {
