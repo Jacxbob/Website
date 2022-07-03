@@ -17,7 +17,7 @@ h1 {
     text-align: center;
     border-radius: 20px;
     padding: 13px;
-    
+    text-shadow: 1px 1px 1px grey;
 }
 
 
@@ -32,15 +32,15 @@ h1 {
     padding: 10px;
 }
 
-.link:visited, .link:link {
+.link a:visited, .link a:link {
 
 }
 
-.link:hover {
+.link a:hover {
 
 }
 
-.link:active {
+.link a:active {
 
 }
 
