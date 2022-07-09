@@ -5,6 +5,7 @@
     box-sizing: border-box !important;
     padding: 10px;
     border: 10px;
+    text-decoration: none !important;
 }
 
 h1 {
@@ -34,6 +35,8 @@ h2, h3 {
     text-decoration: none;
     color: white;
     padding: 10px;
+    border-width: 50px;
+    border: white solid;
 }
 
 .link a:visited, .link a:link {
