@@ -20,6 +20,10 @@ h1 {
     text-shadow: 1px 1px 1px grey;
 }
 
+h2, h3 {
+    color: steelblue;
+}
+
 
 
 
@@ -43,6 +47,7 @@ h1 {
 .link a:active {
 
 }
+
 
 
 
